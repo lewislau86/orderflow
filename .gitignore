@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+Binance/
+Binance.zip
+datasets/
+results/
+models/
+
+conda_pkgs/
+localappdata/
+tmp_conda/
+tmp_pip/
+
+.env
+.venv/
+venv/
